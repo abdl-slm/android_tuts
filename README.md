@@ -1,1 +1,1 @@
-"# android_tuts" 
+"Source Code for Horizontal Recycler View" 
